@@ -6,7 +6,8 @@ J'ai vue que des zgueg s'amusait a vendre des `UNLOCKER`, FXAP sur des discord, 
 
 
 ## 1) Installation du Décrypteur
-- Télécharger le Décrypteur → [UnlockFiveM.rar](https://github.com/loeve1337/)
+- Télécharger le Décrypteur → [UnlockFiveM.rar](https://github.com/loeve1337/) 
+- (PASSWORD DU .ZIP = escrowdecrypterbyloeve)
 - Extraire les fichiers du `.rar` sur votre bureau.
 
 ## 2) Configuration des fichiers
